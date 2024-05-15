@@ -39,3 +39,7 @@ Welcome to the A6-10C project repository! This is a website developed by me for 
 - **Development Framework:** I used Django to speed up development.
 - **Frontend:** The user interface is developed using technologies like HTML, CSS using Bootstrap
 - **Organization:** For bugs I used github issues and for features I used github project
+
+## License
+
+[MIT](https://github.com/Luiz-Edu0202/A6-10C/blob/master/LICENSE.md)
